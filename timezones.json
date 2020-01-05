@@ -1,0 +1,20 @@
+[
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "offset": 1,
+    "isdst": true
+  },
+  {
+    "city": "Praia",
+    "country": "Cape Verde",
+    "offset": -1,
+    "isdst": false
+  }
+    {
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "offset": 5,
+    "isdst": false
+  }
+]
