@@ -11,10 +11,16 @@
     "offset": -1,
     "isdst": false
   },
-    {
+  {
     "city": "Yekaterinburg",
     "country": "Russia",
     "offset": 5,
+    "isdst": false
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "offset": 5.75,
     "isdst": false
   }
 ]
