@@ -22,5 +22,11 @@
     "country": "Nepal",
     "offset": 5.75,
     "isdst": false
+  },
+  {
+    "city": "Vokstok",
+    "country": "Russia",
+    "offset": 6,
+    "isdst": false
   }
 ]
