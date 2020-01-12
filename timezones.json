@@ -1,6 +1,5 @@
 [
   {
-<<<<<<< HEAD
     "city": "Midway",
     "country": "United States",
     "offset": -11,
@@ -20,8 +19,6 @@
   },
 
   {
-=======
->>>>>>> 8c3a413f2bc6342046e70da95e8b10446c549690
     "city": "Berlin",
     "country": "Germany",
     "offset": 1,
@@ -47,11 +44,7 @@
   },
   {
     "city": "Vokstok",
-<<<<<<< HEAD
     "country": "Antarctica",
-=======
-    "country": "Russia",
->>>>>>> 8c3a413f2bc6342046e70da95e8b10446c549690
     "offset": 6,
     "isdst": false
   }
